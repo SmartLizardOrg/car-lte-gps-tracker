@@ -1,6 +1,6 @@
 # Car LTE GPS Tracker with Remote Relay Control
 
-[![CI](https://github.com/CodeLizardDev/car-lte-gps-tracker/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/CodeLizardDev/car-lte-gps-tracker/actions/workflows/ci.yml)
+[![CI](https://github.com/SmartLizardOrg/car-lte-gps-tracker/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/SmartLizardOrg/car-lte-gps-tracker/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: ESP32](https://img.shields.io/badge/Platform-ESP32-blue.svg)](https://www.espressif.com/)
 [![Framework: ESP-IDF](https://img.shields.io/badge/Framework-ESP--IDF-red.svg)](https://docs.espressif.com/projects/esp-idf/)
@@ -166,7 +166,7 @@ firmware/
 ### Build
 
 ```bash
-git clone https://github.com/CodeLizardDev/car-lte-gps-tracker
+git clone https://github.com/SmartLizardOrg/car-lte-gps-tracker
 cd car-lte-gps-tracker/firmware
 idf.py set-target esp32
 cp config/credentials.example.h config/credentials.h
