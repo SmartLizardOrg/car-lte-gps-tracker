@@ -12,7 +12,7 @@
 ## Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/CodeLizardDev/car-lte-gps-tracker.git
+git clone https://github.com/SmartLizardOrg/car-lte-gps-tracker.git
 cd car-lte-gps-tracker
 ```
 
